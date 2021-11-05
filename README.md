@@ -1,13 +1,21 @@
 # Welcome Fellas👋
 ![Alt text](eren-levi.gif)
-## About me❔
+# About me❔
 --------------------------------------------------------------
+- I'm 18 years Computer Science student & a Game Developer Enthusiast from Portugal.
 <img align = "right" src= "https://c.tenor.com/0MDPQCOby_UAAAAC/atsushi-murasakibara-murasakibara.gif"/>
-<ul>
-* 18 years old
-* Computer Science student @IST
-* Game Developer Enthusiast from Portugal
-</ul>
+
+<h2> Learning: </h2>
+
+* Python;
+* HTML;
+* C# (Unity);
+
+<h2> Hobbies: </h2>
+
+* Handball;
+* Game Addict;
+* Mostly Anime Consumer;
 
 <!--
 **diogomsmiranda/diogomsmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
