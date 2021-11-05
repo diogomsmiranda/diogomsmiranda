@@ -13,9 +13,9 @@
 
 <h2> Hobbies: </h2>
 
-* Handball;
-* Game Addict;
-* Mostly Anime Consumer;
+* 🤾‍♂️ Handball;
+* 👾 Game Addict;
+* 🧸 Mostly Anime Consumer;
 
 <!--
 **diogomsmiranda/diogomsmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
