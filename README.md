@@ -2,10 +2,10 @@
 ![Alt text](eren-levi.gif)
 #### About me❔
 
-<p>* 18 years old
+<img align="right" src="doc/subpagelist.png">
+* 18 years old
 * Computer Science student @IST
-* Game Developer Enthusiast from Portugal</p> 
-
+* Game Developer Enthusiast from Portugal 
 ![alt text](atsushi-murasakibara-murasakibara.gif)
 
 <!--
