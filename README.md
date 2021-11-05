@@ -1,12 +1,11 @@
 ## Hi there 👋
 ![Alt text](eren-levi.gif)
-#### About me❔
-
-<img align="right" src="doc/subpagelist.png">
+### About me❔
+--------------------------------------------------------------
+![alt text](atsushi-murasakibara-murasakibara.gif)
 * 18 years old
 * Computer Science student @IST
 * Game Developer Enthusiast from Portugal 
-![alt text](atsushi-murasakibara-murasakibara.gif)
 
 <!--
 **diogomsmiranda/diogomsmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
