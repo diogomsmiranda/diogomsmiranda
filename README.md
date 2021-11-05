@@ -1,5 +1,6 @@
 # Welcome Fellas👋
-  ![Alt text](eren-levi.gif)
+  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif?raw=true"/>
+  
 # About me❔
 --------------------------------------------------------------
 - I'm 18 years Computer Science student & a Game Developer Enthusiast from Portugal.
