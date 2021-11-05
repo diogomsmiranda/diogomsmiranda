@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![ Alt text](atsushi-murasakibara-murasakibara. gif) / ! [](atsushi-murasakibara-murasakibara. gif)
+![ Alt text](atsushi-murasakibara-murasakibara.gif) / ! [](atsushi-murasakibara-murasakibara.gif)
 
 <!--
 **diogomsmiranda/diogomsmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
