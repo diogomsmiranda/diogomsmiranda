@@ -1,9 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
-<h1> About me❔<h1>
+#### About me❔
 
-<h3>I'm 18 years old Computer Science student @IST & Game Developer Enthusiast from Portugal.<h3> 
-<p>![Alt text](atsushi-murasakibara-murasakibara.gif)/![](atsushimurasakibara-murasakibara.gif)<p>
+* 18 years old
+* Computer Science student @IST
+* Game Developer Enthusiast from Portugal ![Alt text](atsushi-murasakibara-murasakibara.gif)/![](atsushimurasakibara-murasakibara.gif)
 
 <!--
 **diogomsmiranda/diogomsmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
