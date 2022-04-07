@@ -13,6 +13,8 @@
 * 🟡🔵 Python;
 * 🟠⚪️ HTML;
 * 🟣🟣 C# (Unity);
+* 🟢🟢 C;
+* ⚫️⚪️ Prolog;
 
 <h2> Hobbies: </h2>
 
