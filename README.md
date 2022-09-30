@@ -8,13 +8,12 @@
 
 <h2> Learning: </h2>
 
-<img align="right" src= "https://media0.giphy.com/media/dvsjHZc6P3oozpp9I4/200w.webp?cid=ecf05e47w8mw3o7kx5s0mcqkntyjozl72lv9vpjluk9azw6q&rid=200w.webp&ct=g"/>
-
 * 🟡🔵 Python;
 * 🟠⚪️ HTML;
 * 🟣🟣 C# (Unity);
 * 🟢🟢 C;
 * ⚫️⚪️ Prolog;
+* 🟠🔵 Java;
 
 <h2> Hobbies: </h2>
 
