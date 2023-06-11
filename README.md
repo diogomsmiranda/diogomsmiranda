@@ -3,7 +3,7 @@
   
 # About me❔
 --------------------------------------------------------------
-- I'm an 18 year old Computer Science student & a Game Developer Enthusiast from Portugal.
+- I'm an 19 year old Computer Science student & a Game Developer Enthusiast from Portugal.
 <img align = "right" src= "https://c.tenor.com/0MDPQCOby_UAAAAC/atsushi-murasakibara-murasakibara.gif"/>
 
 <h2> Learning: </h2>
@@ -12,8 +12,10 @@
 * 🟠⚪️ HTML;
 * 🟣🟣 C# (Unity);
 * 🟢🟢 C;
+* 🟢🟢 C++;
 * ⚫️⚪️ Prolog;
 * 🟠🔵 Java;
+* 🔵🔵 R;
 
 <h2> Hobbies: </h2>
 
