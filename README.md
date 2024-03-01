@@ -6,9 +6,9 @@ Sure, here's an improved version of your README:
 ## About Me ℹ️
 --------------------------------------------------------------
 - 🌍 Greetings from Portugal! I'm a 20-year-old Computer Science student with a passion for Game Development.
-<img align = "right" z=1 src= "https://c.tenor.com/0MDPQCOby_UAAAAC/atsushi-murasakibara-murasakibara.gif"/>
+<img align = "right" src= "https://c.tenor.com/0MDPQCOby_UAAAAC/atsushi-murasakibara-murasakibara.gif"/>
 
-## Learning Journey 🚀
+# Learning Journey 🚀
 
 * 🟡🔵 Python
 * 🟠⚪️ HTML
@@ -19,7 +19,7 @@ Sure, here's an improved version of your README:
 * 🟠🔵 Java
 * 🔵🔵 R
 
-## Hobbies & Interests 🎮
+# Hobbies & Interests 🎮
 
 * 🤾‍♂️ Handball
 * 👾 Game Development
