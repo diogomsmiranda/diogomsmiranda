@@ -1,7 +1,4 @@
-Sure, here's an improved version of your README:
-
-# Hey there! 👋
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif?raw=true"/>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif?raw=true"/>
 
 ## About Me ℹ️
 --------------------------------------------------------------
