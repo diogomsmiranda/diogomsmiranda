@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header / Intro -->
-<h1>Hey, I'm Diogo!</h1>
+<h1 align="left">Diogo Miranda</h1>
 <h3>Master’s student @ Instituto Superior Técnico (Lisbon) • ML / Model Merging • Portugal 🇵🇹</h3>
 
 <a href="https://git.io/typing-svg">
