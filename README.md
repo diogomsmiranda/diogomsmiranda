@@ -2,13 +2,7 @@
 
 <!-- Header / Intro -->
 <h1 align="left">Diogo Miranda</h1>
-<h3>Master’s student @ Instituto Superior Técnico (Lisbon) • ML / Model Merging • Portugal 🇵🇹</h3>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Final+year+Master's+student+at+Instituto+Superior+T%C3%A9cnico;Researching+Model+Merging+%26+On-Policy+Distillation;Interested+in+end-to-end+ML+pipelines+%F0%9F%A7%A0;Building+reliable+models+from+data+to+deployment" alt="Typing SVG" />
-</a>
-
-<br/>
+<h3 align="left">Master’s student @ Instituto Superior Técnico (Lisbon) • ML / Model Merging • Portugal 🇵🇹</h3>
 
 <!-- Badges -->
 <p>
