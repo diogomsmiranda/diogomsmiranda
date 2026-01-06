@@ -4,15 +4,8 @@
 <h1 align="left">Diogo Miranda</h1>
 <h3 align="left">Master’s student @ Instituto Superior Técnico (Lisbon) • ML / Model Merging • Portugal 🇵🇹</h3>
 
-<!-- Badges -->
-<p>
-  <img src="https://img.shields.io/badge/Location-Portugal-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-ML%20%26%20Model%20Merging-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Research-On--Policy%20Distillation-purple?style=for-the-badge" />
-</p>
-
 <!-- Links -->
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/diogomsmiranda/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:diogomsmiranda@tecnico.ulisboa.pt"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
