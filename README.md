@@ -69,25 +69,10 @@ I’m exploring how **On-Policy Distillation** can improve **knowledge distillat
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=diogomsmiranda&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogomsmiranda&layout=compact&langs_count=8" />
-
-<br/>
-
 <!-- Streaks -->
 <img height="190" src="https://streak-stats.demolab.com?user=diogomsmiranda" />
 
 </div>
-
----
-
-## Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diogomsmiranda&margin-w=12&margin-h=12&no-frame=true&row=1&column=7" />
-</div>
-
----
 
 ## Featured Projects
 <!-- Pin your best work here. Replace links and descriptions -->
