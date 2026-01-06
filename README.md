@@ -1,15 +1,9 @@
-<!--
-Hi Diogo 👋
-Tip: Replace YOUR_GITHUB_USERNAME, YOUR_LINKEDIN, YOUR_WEBSITE, etc.
--->
-
 <div align="center">
 
 <!-- Header / Intro -->
-<h1>Hey, I'm Diogo 👋</h1>
+<h1>Hey, I'm Diogo!</h1>
 <h3>Master’s student @ Instituto Superior Técnico (Lisbon) • ML / Model Merging • Portugal 🇵🇹</h3>
 
-<!-- Optional: typing intro (readme-typing-svg) -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Final+year+Master's+student+at+Instituto+Superior+T%C3%A9cnico;Researching+Model+Merging+%26+On-Policy+Distillation;Interested+in+end-to-end+ML+pipelines+%F0%9F%A7%A0;Building+reliable+models+from+data+to+deployment" alt="Typing SVG" />
 </a>
@@ -33,16 +27,16 @@ Tip: Replace YOUR_GITHUB_USERNAME, YOUR_LINKEDIN, YOUR_WEBSITE, etc.
 
 ---
 
-## About Me ℹ️
+## About Me
 
-- 🎓 Final year **Master’s in Computer Science** @ **Instituto Superior Técnico (Lisbon)**
-- 🔬 Research: **Model Merging**, specifically **On-Policy Distillation** applied to **Knowledge Distillation-based fusion of models**
-- 🧠 Currently obsessed with the full ML pipeline: **data → training → evaluation → deployment → monitoring**
-- 🌍 Based in **Portugal** 🇵🇹
+- Final year **Master’s in Computer Science** @ **Instituto Superior Técnico (Lisbon)**
+- Research: **Model Merging**, specifically **On-Policy Distillation** applied to **Knowledge Distillation-based fusion of models**
+- Currently obsessed with the full ML pipeline: **data → training → evaluation → deployment → monitoring**
+- Based in **Portugal** 🇵🇹
 
 ---
 
-## Research Snapshot 🔎
+## Research Snapshot
 
 **Current theme:** _making merged/fused models behave well on-policy_  
 I’m exploring how **On-Policy Distillation** can improve **knowledge distillation model fusion** by:
@@ -50,21 +44,21 @@ I’m exploring how **On-Policy Distillation** can improve **knowledge distillat
 - reducing brittle behavior after merging
 - improving stability / generalization in the fused model
 
-📌 **Keywords:** model merging • knowledge distillation • on-policy distillation • distribution shift • evaluation
+**Keywords:** model merging • knowledge distillation • on-policy distillation • distribution shift • evaluation
 
 > If you have a relevant paper, repo, or preprint link, drop it here:
 
 ---
 
-## What I’m Working On 🛠️
+## What I’m Working On
 
-- 🧪 Experiments around **distillation objectives**, **sampling strategies**, and **fusion recipes**
-- 📊 Evaluation harness for **robustness**, **regression checks**, and **behavior drift**
-- 🚀 Practical workflows: **reproducible training**, **artifact tracking**, **clean ablations**
+- Experiments around **distillation objectives**, **sampling strategies**, and **fusion recipes**
+- Evaluation harness for **robustness**, **regression checks**, and **behavior drift**
+- Practical workflows: **reproducible training**, **artifact tracking**, **clean ablations**
 
 ---
 
-## Tech Stack ⚙️
+## Tech Stack
 
 ### ML / Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -100,14 +94,14 @@ I’m exploring how **On-Policy Distillation** can improve **knowledge distillat
 
 ---
 
-## Trophies 🏆
+## Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=diogomsmiranda&margin-w=12&margin-h=12&no-frame=true&row=1&column=7" />
 </div>
 
 ---
 
-## Featured Projects ⭐
+## Featured Projects
 <!-- Pin your best work here. Replace links and descriptions -->
 - 🔥 **[Project 1](https://github.com/YOUR_GITHUB_USERNAME/PROJECT1)** — one-liner: what it does + what’s cool about it  
 - 🧠 **[Project 2](https://github.com/YOUR_GITHUB_USERNAME/PROJECT2)** — one-liner: ML / pipeline / experiments  
@@ -115,7 +109,7 @@ I’m exploring how **On-Policy Distillation** can improve **knowledge distillat
 
 ---
 
-## Let’s Connect 🤝
+## Let’s Connect
 
 If you’re into **model merging**, **distillation**, or **practical ML**, I’d love to chat.
 
