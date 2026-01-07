@@ -110,7 +110,7 @@ I am investigating **On-Policy Multi-Teacher Fusion**, a framework designed to f
 
 If you’re into **model merging**, **distillation**, or **practical ML**, I’d love to chat.
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
+- 💼 LinkedIn: https://www.linkedin.com/in/diogomsmiranda/
 - 📫 Email: diogomsmiranda@tecnico.ulisboa.pt
 
 ---
