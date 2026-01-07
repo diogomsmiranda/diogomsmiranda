@@ -96,9 +96,12 @@ I am investigating **On-Policy Multi-Teacher Fusion**, a framework designed to f
 
 ## Featured Projects
 <!-- Pin your best work here. Replace links and descriptions -->
-- 🔥 **[Project 1](https://github.com/YOUR_GITHUB_USERNAME/PROJECT1)** — one-liner: what it does + what’s cool about it  
-- 🧠 **[Project 2](https://github.com/YOUR_GITHUB_USERNAME/PROJECT2)** — one-liner: ML / pipeline / experiments  
-- 🧪 **[Project 3](https://github.com/YOUR_GITHUB_USERNAME/PROJECT3)** — one-liner: evaluation / tooling / reproducibility
+- 🧊 **[CUBOS](https://github.com/GameDevTecnico/cubos)** — It is open source and free to use game engine for any purpose. Written in modern C++ (20) and with data-oriented design in mind, its goal is to be both performant and highly flexible.  
+- 🧪 **[LEMAC-Website](https://github.com/SysAdmin-IST-DEM/lemac-website)** — Website for the laboratory LEMAC (Computer Assisted Mechanical Engineering Laboratory).
+
+## Course Projects
+
+- 💻 **[Operative Systems](https://github.com/diogomsmiranda/SO-proj)** - Operating System's course Project: TécnicoFS, simplified file system in user mode.
 
 ---
 
