@@ -82,17 +82,7 @@ I am investigating **On-Policy Multi-Teacher Fusion**, a framework designed to f
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-
 ---
-
-## GitHub Stats 📈
-
-<div align="center">
-
-<!-- Streaks -->
-<img height="190" src="https://streak-stats.demolab.com?user=diogomsmiranda" />
-
-</div>
 
 ## Featured Projects
 <!-- Pin your best work here. Replace links and descriptions -->
@@ -104,6 +94,15 @@ I am investigating **On-Policy Multi-Teacher Fusion**, a framework designed to f
 - 💻 **[Operative Systems](https://github.com/diogomsmiranda/SO-proj)** - Operating System's course Project: TécnicoFS, simplified file system in user mode.
 
 ---
+
+## GitHub Stats 📈
+
+<div align="center">
+
+<!-- Streaks -->
+<img height="190" src="https://streak-stats.demolab.com?user=diogomsmiranda" />
+
+</div>
 
 ## Let’s Connect
 
