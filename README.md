@@ -19,7 +19,7 @@
 - I'm **22** years old
 - Final year **Master’s in Computer Science** @ **Instituto Superior Técnico (Lisbon)**
 - Research: **Model Merging**, specifically **On-Policy Distillation** solutions on **Knowledge Distillation-based fusion**
-- Currently obsessed with the full ML pipeline: **data → training -> post-training → evaluation → deployment → monitoring**
+- Currently passionate with the full model creation pipeline: **data → training -> post-training → evaluation → deployment → monitoring**
 - Based in **Portugal** 🇵🇹
 
 ---
