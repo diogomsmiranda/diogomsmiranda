@@ -97,7 +97,7 @@ I am investigating **On-Policy Multi-Teacher Fusion**, a framework designed to f
 
 ---
 
-## (Not Important)* Github  Stats 📈
+## (Not so Important)* Github  Stats 📈
 
 <div align="center">
 
