@@ -37,6 +37,8 @@ I am investigating **On-Policy Multi-Teacher Fusion**, a framework designed to f
 
 **Keywords:** `multi-teacher distillation` • `on-policy learning` • `jensen-shannon divergence` • `model fusion` • `max-margin aggregation`
 
+> Currently reading through **[this](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications)** repository for Model Merging / Model Fusion literature.
+
 ---
 
 ## What I’m Working On
