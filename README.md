@@ -8,6 +8,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/diogomsmiranda/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:diogomsmiranda@tecnico.ulisboa.pt"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://huggingface.co/YOUR_HF_USERNAME"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000"/></a>
 </p>
 
 </div>
