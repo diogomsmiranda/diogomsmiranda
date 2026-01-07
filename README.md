@@ -26,25 +26,27 @@
 
 ## Research Snapshot
 
-**Current theme:** _making merged/fused models behave well on-policy_  
-I’m exploring how **On-Policy Distillation** can improve **knowledge distillation model fusion** by:
-- aligning student behavior with **its own induced distribution** (on-policy)
-- reducing brittle behavior after merging
-- improving stability / generalization in the fused model
+**Current theme:** _Moving Model Fusion from Static Imitation to Dynamic Exploration_
 
-**Keywords:** model merging • knowledge distillation • on-policy distillation • distribution shift • evaluation
+I am investigating **On-Policy Multi-Teacher Fusion**, a framework designed to fix the "exposure bias" limitation in current methods like FuseLLM and InfiFusion. Instead of training a student to passively mimic static teacher logits (Off-Policy), I force the student to generate its own rollouts and receive dynamic feedback from an ensemble of experts.
 
-> If you have a relevant paper, repo, or preprint link, drop it here:
+**Key Hypotheses:**
+* **Dynamic vs. Static:** Training on student-induced distributions (On-Policy) allows the model to learn error-recovery strategies that static distillation misses.
+* **Consensus Stability:** Using **Generalized Jensen-Shannon Divergence ($JS_\pi$)** creates a bounded, symmetric loss landscape, preventing gradient explosions when the student explores "long-tail" trajectories.
+* **Expert Allocation:** Applying **Max-Margin Ensemble Aggregation** enables the student to dynamically attend to the most confident domain expert (e.g., Math vs. Code teacher) for every token it generates.
+
+**Keywords:** `multi-teacher distillation` • `on-policy learning` • `jensen-shannon divergence` • `model fusion` • `max-margin aggregation`
 
 ---
 
 ## What I’m Working On
 
-- Experiments around **distillation objectives**, **sampling strategies**, and **fusion recipes**
-- Evaluation harness for **robustness**, **regression checks**, and **behavior drift**
-- Practical workflows: **reproducible training**, **artifact tracking**, **clean ablations**
-
----
+* **Core Algorithms:**
+    * Implementing **Generalized Jensen-Shannon Divergence** to replace standard Reverse KL for stable on-policy updates.
+    * Building **Max-Margin Aggregation** kernels to dynamically re-weight teacher's confidence based on real-time confidence scores.
+* **Baselines & Replication:**
+    * **Track A (General):** Replicating the **FuseLLM** setup (Llama-2/MPT/OpenLLaMA) to benchmark general knowledge transfer.
+    * **Track B (Reasoning):** Replicating the **InfiFusion** setup (Qwen-Math/Qwen-Coder/Mistral) to test expert routing in complex reasoning tasks.
 
 ## Tech Stack ⚙️
 
