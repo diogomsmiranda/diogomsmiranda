@@ -48,7 +48,7 @@ I am investigating **On-Policy Multi-Teacher Fusion**, a framework designed to f
     * **Track A (General):** Replicating the **FuseLLM** setup (Llama-2/MPT/OpenLLaMA) to benchmark general knowledge transfer.
     * **Track B (Reasoning):** Replicating the **InfiFusion** setup (Qwen-Math/Qwen-Coder/Mistral) to test expert routing in complex reasoning tasks.
 
-## Tech Stack ⚙️
+## Tech Stack
 
 ### ML / Data
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
