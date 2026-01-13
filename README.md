@@ -95,7 +95,7 @@ I am investigating **On-Policy Multi-Teacher Fusion**, a framework designed to f
 ## Course Projects
 
 - 💻 **[Operative Systems](https://github.com/diogomsmiranda/SO-proj)** - Operating System's course Project: TécnicoFS, simplified file system in user mode.
-- 🧠 **[Deep Learning Homeworks][https://github.com/diogomsmiranda/DeepLearning_G41_HW]**- Deep Learning's course Homework.
+- 🧠 **[Deep Learning Homeworks](https://github.com/diogomsmiranda/DeepLearning_G41_HW)**- Deep Learning's course Homework.
 
 ---
 
