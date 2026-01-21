@@ -29,7 +29,7 @@
 
 **Current theme:** _Moving Model Fusion from Static Imitation to Dynamic Exploration_
 
-I am investigating **On-Policy Multi-Teacher Fusion**, a framework designed to fix the "exposure bias" limitation in current methods like FuseLLM and InfiFusion. Instead of training a student to passively mimic static teacher logits (Off-Policy), I force the student to generate its own rollouts and receive dynamic feedback from an ensemble of experts.
+I am investigating **On-Policy Multi-Teacher Distillation**, a framework designed to fix the "exposure bias" limitation in current methods like FuseLLM and InfiFusion. Instead of training a student to passively mimic static teacher logits (Off-Policy), I force the student to generate its own rollouts and receive dynamic feedback from an ensemble of experts.
 
 **Key Hypotheses:**
 * **Dynamic vs. Static:** Training on student-induced distributions (On-Policy) allows the model to learn error-recovery strategies that static distillation misses.
@@ -42,14 +42,18 @@ I am investigating **On-Policy Multi-Teacher Fusion**, a framework designed to f
 
 ---
 
-## What I’m Working On
+## Featured Projects
+<!-- Pin your best work here. Replace links and descriptions -->
+- 🧊 **[CUBOS](https://github.com/GameDevTecnico/cubos)** — It is open source and free to use game engine for any purpose. Written in modern C++ (20) and with data-oriented design in mind, its goal is to be both performant and highly flexible.  
+- 🧪 **[LEMAC-Website](https://github.com/SysAdmin-IST-DEM/lemac-website)** — Website for the laboratory LEMAC (Computer Assisted Mechanical Engineering Laboratory).
 
-* **Core Algorithms:**
-    * Implementing **Generalized Jensen-Shannon Divergence** to replace standard Reverse KL for stable on-policy updates.
-    * Building **Max-Margin Aggregation** kernels to dynamically re-weight teacher's confidence based on real-time confidence scores.
-* **Baselines & Replication:**
-    * **Track A (General):** Replicating the **FuseLLM** setup (Llama-2/MPT/OpenLLaMA) to benchmark general knowledge transfer.
-    * **Track B (Reasoning):** Replicating the **InfiFusion** setup (Qwen-Math/Qwen-Coder/Mistral) to test expert routing in complex reasoning tasks.
+## Course Projects
+
+- 🗣️ **[Natural Language Project](https://github.com/diogomsmiranda/NL-Project)** - Natural Language's course project.
+- 🧠 **[Deep Learning Homeworks](https://github.com/diogomsmiranda/DeepLearning_G41_HW)** - Deep Learning's course Homework.
+- 💻 **[Operative Systems](https://github.com/diogomsmiranda/SO-proj)** - Operating System's course Project: TécnicoFS, simplified file system in user mode.
+
+---
 
 ## Tech Stack
 
@@ -84,18 +88,6 @@ I am investigating **On-Policy Multi-Teacher Fusion**, a framework designed to f
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
----
-
-## Featured Projects
-<!-- Pin your best work here. Replace links and descriptions -->
-- 🧊 **[CUBOS](https://github.com/GameDevTecnico/cubos)** — It is open source and free to use game engine for any purpose. Written in modern C++ (20) and with data-oriented design in mind, its goal is to be both performant and highly flexible.  
-- 🧪 **[LEMAC-Website](https://github.com/SysAdmin-IST-DEM/lemac-website)** — Website for the laboratory LEMAC (Computer Assisted Mechanical Engineering Laboratory).
-
-## Course Projects
-
-- 💻 **[Operative Systems](https://github.com/diogomsmiranda/SO-proj)** - Operating System's course Project: TécnicoFS, simplified file system in user mode.
-- 🧠 **[Deep Learning Homeworks](https://github.com/diogomsmiranda/DeepLearning_G41_HW)**- Deep Learning's course Homework.
 
 ---
 
