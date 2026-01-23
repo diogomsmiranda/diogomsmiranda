@@ -51,6 +51,7 @@ I am investigating **On-Policy Multi-Teacher Distillation**, a framework designe
 
 - 🗣️ **[Natural Language Project](https://github.com/diogomsmiranda/NL-Project)** - Natural Language's course project.
 - 🧠 **[Deep Learning Homeworks](https://github.com/diogomsmiranda/DeepLearning_G41_HW)** - Deep Learning's course Homework.
+- 🤖 **[Social Robotics and Human Interaction](https://github.com/diogomsmiranda/engagement_eval)** - LLM as a judge engagement evaluator.
 - 💻 **[Operative Systems](https://github.com/diogomsmiranda/SO-proj)** - Operating System's course Project: TécnicoFS, simplified file system in user mode.
 
 ---
