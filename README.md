@@ -92,15 +92,6 @@ I am investigating **On-Policy Multi-Teacher Distillation**, a framework designe
 
 ---
 
-## (Not so Important)* Github  Stats 📈
-
-<div align="center">
-
-<!-- Streaks -->
-<img height="190" src="https://streak-stats.demolab.com?user=diogomsmiranda" />
-
-</div>
-
 ## Let’s Connect
 
 If you’re into **model merging**, **distillation**, or **practical ML**, I’d love to chat.
