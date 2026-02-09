@@ -47,7 +47,7 @@ I am investigating **On-Policy Multi-Teacher Distillation**, a framework designe
 - 🧊 **[CUBOS](https://github.com/GameDevTecnico/cubos)** — It is open source and free to use game engine for any purpose. Written in modern C++ (20) and with data-oriented design in mind, its goal is to be both performant and highly flexible.  
 - 🧪 **[LEMAC-Website](https://github.com/SysAdmin-IST-DEM/lemac-website)** — Website for the laboratory LEMAC (Computer Assisted Mechanical Engineering Laboratory).
 
-## Relevant Course Projects
+## Project Highlights (Academic)
 
 - 🗣️ **[Natural Language Project](https://github.com/diogomsmiranda/NL-Project)** - Natural Language's course project.
 - 🧠 **[Deep Learning Homeworks](https://github.com/diogomsmiranda/DeepLearning_G41_HW)** - Deep Learning's course Homework.
