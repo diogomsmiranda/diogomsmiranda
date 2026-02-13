@@ -23,6 +23,8 @@
 - Currently passionate with the full model creation pipeline: **pre-training → training -> post-training → evaluation → deployment → monitoring**
 - Based in **Portugal** 🇵🇹
 
+> Check out my **[CV](https://diogomsmiranda.github.io/cv/)**
+
 ---
 
 ## Research Snapshot
