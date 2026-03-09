@@ -45,7 +45,7 @@ I am investigating **On-Policy Multi-Teacher Distillation**, a framework designe
 ---
 
 ## Featured Projects
-<!-- Pin your best work here. Replace links and descriptions -->
+- 📍 **[EVBuddy](https://github.com/diogomsmiranda/evbuddy)** - EVBuddy is a reproducible ML pipeline for EV charging-station availability forecasting in Barcelona.
 - 🧊 **[CUBOS](https://github.com/GameDevTecnico/cubos)** — It is open source and free to use game engine for any purpose. Written in modern C++ (20) and with data-oriented design in mind, its goal is to be both performant and highly flexible.  
 - 🧪 **[LEMAC-Website](https://github.com/SysAdmin-IST-DEM/lemac-website)** — Website for the laboratory LEMAC (Computer Assisted Mechanical Engineering Laboratory).
 
@@ -64,12 +64,14 @@ I am investigating **On-Policy Multi-Teacher Distillation**, a framework designe
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Dask](https://img.shields.io/badge/-Dask-FC6E6B?style=flat&logo=dask&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 ### .NET / Backend
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ### Web Dev
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -82,9 +84,11 @@ I am investigating **On-Policy Multi-Teacher Distillation**, a framework designe
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-### DevOps / Tools
+### MLOps / DevOps / Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![DVC](https://img.shields.io/badge/-DVC-13ADC7?style=flat&logo=dvc&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 
 ### Languages (General)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
